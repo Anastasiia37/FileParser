@@ -1,0 +1,8 @@
+Hello!
+This is file for searching string!
+123
+File 123 file
+Search
+123
+12
+Search file

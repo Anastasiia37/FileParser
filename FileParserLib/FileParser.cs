@@ -1,4 +1,8 @@
-﻿namespace FileParserLib
+﻿// <copyright file="FileParser.cs" company="Peretiatko Anastasiia">
+// Copyright (c) Peretiatko Anastasiia. All rights reserved.
+// </copyright>
+
+namespace FileParserLib
 {
     public abstract class FileParser
     {

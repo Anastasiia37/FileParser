@@ -1,4 +1,8 @@
-﻿using log4net;
+﻿// <copyright file="Logger.cs" company="Peretiatko Anastasiia">
+// Copyright (c) Peretiatko Anastasiia. All rights reserved.
+// </copyright>
+
+using log4net;
 using log4net.Config;
 
 namespace FileParserUI

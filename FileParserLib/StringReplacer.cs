@@ -1,4 +1,8 @@
-﻿using System.Text;
+﻿// <copyright file="StringReplacer.cs" company="Peretiatko Anastasiia">
+// Copyright (c) Peretiatko Anastasiia. All rights reserved.
+// </copyright>
+
+using System.Text;
 using System.IO;
 using System.Text.RegularExpressions;
 

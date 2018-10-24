@@ -1,4 +1,8 @@
-﻿using System.IO;
+﻿// <copyright file="StringCounter.cs" company="Peretiatko Anastasiia">
+// Copyright (c) Peretiatko Anastasiia. All rights reserved.
+// </copyright>
+
+using System.IO;
 using System.Text.RegularExpressions;
 
 namespace FileParserLib

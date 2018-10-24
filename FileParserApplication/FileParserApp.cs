@@ -1,4 +1,8 @@
-﻿using System;
+﻿// <copyright file="FileParserApp.cs" company="Peretiatko Anastasiia">
+// Copyright (c) Peretiatko Anastasiia. All rights reserved.
+// </copyright>
+
+using System;
 using System.IO;
 using System.Text;
 using FileParserLib;

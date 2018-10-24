@@ -1,4 +1,8 @@
-﻿namespace FileParserUI
+﻿// <copyright file="ReturnCode.cs" company="Peretiatko Anastasiia">
+// Copyright (c) Peretiatko Anastasiia. All rights reserved.
+// </copyright>
+
+namespace FileParserUI
 {
     /// <summary>
     /// Contains the return codes of the program
